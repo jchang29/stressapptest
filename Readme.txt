@@ -1,4 +1,4 @@
-se puso en c:\proyndk debido a que el usuario Jorge Chang tiene un espacio entre el nombre y el apellido
+
 
 os.cc
 line 214: add vector to AARCH64
