@@ -12,7 +12,7 @@ line 177: add AARCH64 must be according to applicaiton.mk APP_ABI
 line 58: remove pthread_barriers for AArch64
 
 sattypes.h
-line 28: remove Built using autoconf since I built it using ndk-built
+line 28: remove Built using autoconf since it is built using ndk-build
 line 60: remove kOpenSource and googlesattypes.h
 don't have config.h
 
